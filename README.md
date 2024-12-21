@@ -51,7 +51,8 @@ CTRL+A+D
 
 ## AUTO INSTALL ONE CLICK
 ```bash
-LOADING
+wget https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/Init.sh && chmod +x Init.sh && ./Init.sh
+
 ```
 
 ## Periksa Aktivitas Miner Anda Kunjungi dasbor pool penambangan:
